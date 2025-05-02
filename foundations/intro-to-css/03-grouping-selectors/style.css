@@ -1,0 +1,13 @@
+button{
+    font-family: Helvetica, "Times New Roman", sans-sarif;
+}
+
+ button.Y{
+    color:white;
+    background-color:black;
+ }
+
+ button.N{
+    color:aqua;
+    background-color: yellow;
+ }
